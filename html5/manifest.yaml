@@ -1,0 +1,5 @@
+applications:
+- name: alertnode
+  random-route: true
+  path: alertnode
+  memory: 128M
