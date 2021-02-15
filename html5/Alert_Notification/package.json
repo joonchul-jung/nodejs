@@ -1,0 +1,14 @@
+{
+  "name": "alert_notification",
+  "version": "1.0.0",
+  "description": "alert notification service test",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "joonchul",
+  "dependencies": {
+    "@sap/hana-client": "*",
+    "node-schedule": "*",
+    "request": "*"
+  }
+}

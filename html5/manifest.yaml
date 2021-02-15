@@ -2,4 +2,5 @@ applications:
 - name: alertnode
   random-route: true
   path: alertnode
+  buidpack: https://github.com/cloudfoundry/nodejs-buidpack
   memory: 128M
